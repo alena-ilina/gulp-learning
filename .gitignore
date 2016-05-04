@@ -1,0 +1,9 @@
+# ignore node_modules folder
+node_modules/
+tmp/
+dest/
+public/
+npm-debug.log
+
+.DS_Store
+._.DS_Store

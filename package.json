@@ -1,0 +1,23 @@
+{
+  "name": "learn-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "node ./node_modules/gulp/bin/gulp",
+    "eslint": "node ./node_modules/eslint/bin/eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-if": "^2.0.0",
+    "gulp-newer": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-stylus": "^2.3.1",
+    "stylus": "^0.54.2"
+  }
+}
